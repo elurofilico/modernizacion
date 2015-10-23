@@ -63,8 +63,10 @@
                 Unidad de Modernización y Gobierno Digital <br>
                 Gobierno de Chile <br></strong></p>
                 
-                <p>Teatinos 333, Piso 4, Santiago de Chile | <a href="https://goo.gl/maps/Ysn79" target="_blank">Ver mapa</a><br>
-                Teléfono: +56 2 2688 77 01</p>
+                <p>Teatinos 92, Piso 9, Santiago de Chile | <a href="https://goo.gl/maps/CGYUaii7pAn" target="_blank">Ver mapa</a><br><br>
+                Teléfonos: <br> 
+                +56 2 2219 8407 <br> 
+                +56 2 2219 8327</p>
                 
                 <p>Contáctenos <a href="mailto:tcostas@minsegpres.gob.cl"><img src="<?php echo $config->urls->templates?>img/contacto.png" /></a></p>
               
