@@ -30,5 +30,6 @@ upgrade.php
 site/config.php
 site/assets/logs/*
 site/assets/files/*
+site/assets/files
 site/assets/sessions/*
 site/assets/cache/*
